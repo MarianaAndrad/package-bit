@@ -1,0 +1,1 @@
+{"version":3,"file":"SidebarItem.d.ts","sourceRoot":"","sources":["../../../src/components/SidebarItem.tsx"],"names":[],"mappings":"AAEA,OAAO,KAAgC,MAAM,OAAO,CAAC;AACrD,OAAO,EAAE,gBAAgB,EAAU,MAAM,UAAU,CAAC;AAEpD,OAAO,wBAAwB,CAAC;AA2LhC,eAAO,MAAM,WAAW,EAAE,KAAK,CAAC,EAAE,CAAC,gBAAgB,GAAG;IACpD,UAAU,CAAC,EAAE,CAAC,IAAI,EAAE,MAAM,KAAK,IAAI,CAAC;CACnC,CA+DF,CAAC;AAEF,eAAe,WAAW,CAAC"}

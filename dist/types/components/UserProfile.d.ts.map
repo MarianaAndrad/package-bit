@@ -1,0 +1,1 @@
+{"version":3,"file":"UserProfile.d.ts","sourceRoot":"","sources":["../../../src/components/UserProfile.tsx"],"names":[],"mappings":"AAGA,OAAO,EAAE,gBAAgB,EAAE,MAAM,UAAU,CAAC;AAE5C,OAAO,wBAAwB,CAAC;AAEhC,eAAO,MAAM,WAAW,GAAI,8DAOzB,gBAAgB,GAAG;IACpB,UAAU,CAAC,EAAE,CAAC,IAAI,EAAE,MAAM,KAAK,IAAI,CAAC;CACrC,4CAoMA,CAAC;AAEF,eAAe,WAAW,CAAC"}

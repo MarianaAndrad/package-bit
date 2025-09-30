@@ -1,0 +1,65 @@
+{
+  "name": "@bit-ua/iam-sidebar",
+  "version": "1.0.0",
+  "description": "A React sidebar component for IAM-enabled applications with authentication and plugin management",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "lint": "eslint src --ext .ts,.tsx",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "react",
+    "sidebar",
+    "navigation",
+    "iam",
+    "authentication",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Bit UA",
+  "license": "MIT",
+  "peerDependencies": {
+    "next": ">=14.0.0",
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^20.10.4",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "rollup": "^4.6.1",
+    "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bit-ua/iam-sidebar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bit-ua/iam-sidebar/issues"
+  },
+  "homepage": "https://github.com/bit-ua/iam-sidebar#readme"
+}
