@@ -14,8 +14,8 @@ interface UseAuthReturn {
 }
 
 const STORAGE_KEYS = {
-  TOKEN: 'ecosystem.session-token',
-  REFRESH_TOKEN: 'ecosystem.session-token',
+  TOKEN: 'ECOSYSTEM.session-token',
+  REFRESH_TOKEN: 'ECOSYSTEM.refresh-token',
   USER: 'iam-user',
 };
 

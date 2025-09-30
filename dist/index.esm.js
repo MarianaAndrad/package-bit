@@ -166,8 +166,8 @@ function validateEndpointConfig(config) {
 }
 
 const STORAGE_KEYS$1 = {
-    TOKEN: 'ecosystem.session-token',
-    REFRESH_TOKEN: 'ecosystem.session-token',
+    TOKEN: 'ECOSYSTEM.session-token',
+    REFRESH_TOKEN: 'ECOSYSTEM.refresh-token',
     USER: 'iam-user',
 };
 // Helper function to decode JWT (basic implementation)
